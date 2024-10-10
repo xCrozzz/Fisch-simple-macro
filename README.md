@@ -1,6 +1,6 @@
 # Fisch-simple-macro
 
-# don't use fullscreen
+## don't use fullscreen
 
 ### the macro only hit (Shake)
 ### Graphic Quality have to be max
