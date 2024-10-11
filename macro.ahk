@@ -73,7 +73,7 @@ while true {
     else{
         TextSearch.Text := "Waiting For Status to be found."
     }
-    Sleep(350) ; edit this for speed 350 above is good for high ping, lower then 350 req a lower ping and  higher fps
+    Sleep(350) ; edit this for speed 350
 }
 
 
