@@ -1,5 +1,7 @@
 # Fisch-simple-macro
 
+## source code is public cuz i give up lol
+
 ## don't use fullscreen
 
 ### the macro only hit (Shake)
