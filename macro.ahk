@@ -3,7 +3,7 @@
 
 global Status := false
 
-;Credits xCroz
+;Credits xCroz, sup, wonder
 
 mygui := Gui("+AlwaysOnTop","Macro still buggy sadly")
 mygui.SetFont("Bold s16")
