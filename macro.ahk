@@ -48,7 +48,7 @@ MouseRelativeMove() {
 moveToTarget() {
     MouseMove(FoundX, FoundY, 1)
     MouseRelativeMove()
-    Sleep(250) ; click delay
+    Sleep(250) ; click delay for small gui
     Click(1)
 }
 
