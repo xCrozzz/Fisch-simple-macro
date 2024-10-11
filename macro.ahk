@@ -8,10 +8,10 @@ global Status := false
 mygui := Gui("+AlwaysOnTop","Macro still buggy sadly")
 mygui.SetFont("Bold s16")
 Text1 := mygui.AddText("Center","Status: False, Not On")
-Credits := mygui.AddButton("Center", "Made by the Guadalupes").OnEvent("Click",RobloxLink)
+Credits := mygui.AddButton("Center", "Made by the Guadalupes").OnEvent("Click",random)
 mygui.Show("w400 h200 x1500 y10")
 
-RobloxLink(*) {
+random(*) {
     Run("https://e-z.bio/xcroz")
 }
 
