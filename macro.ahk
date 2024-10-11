@@ -12,7 +12,7 @@ Credits := mygui.AddButton("Center", "Made by the Guadalupes").OnEvent("Click",R
 mygui.Show("w400 h200 x1500 y10")
 
 RobloxLink(*) {
-    Run("https://www.roblox.com/users/1069712708/profile")
+    Run("https://e-z.bio/xcroz")
 }
 
 F3:: {
