@@ -1,6 +1,6 @@
 # Fisch-simple-macro
 
-update out still only shake
+update out still only shake Make sure there isn't any other gui, then shake. After the shake minigame is finished, make sure to press F1 to stop the script because it won't do the second minigame.
 
 F1 to enable f3 to term
 
